@@ -1,0 +1,5 @@
+.DS_Store
+
+# Raw recordings and other unreviewed personal media stay local by default.
+# Publish only deliberately selected assets under docs/assets/ after review.
+content/
