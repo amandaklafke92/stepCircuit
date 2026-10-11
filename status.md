@@ -31,8 +31,10 @@ The repository is prepared for public visibility. `PUBLICATION.md` defines the p
 
 ## Next actions
 
+Local workshop planning: [program schedule and weekly preparation](content/program-schedule.md) combines the calendar invitations and program matrix with suggested preparation checkpoints. This private guide stays in the ignored `content/` directory; its tasks do not settle the project's open product or hardware decisions.
+
 1. Use the StepCircuit concept for the workshop's starting idea; treat its target customer and revenue as hypotheses.
-2. Agree what the first build must demonstrate across usefulness, learning, portfolio evidence, and kit assembly.
+2. Agree what the first build must demonstrate across usefulness, learning, portfolio evidence, and kit assembly. <!-- car-friendly -->
 3. Explore the anklet form and practical constraints before selecting components.
 4. Program and assemble Amanda's own prototype; document the real steps before choosing the buyer's programming guide format.
 5. Test the concept, assembly instructions, programming guide, everyday usefulness, and willingness to pay as outlined in `stepcircuit-product-concept.md`.
